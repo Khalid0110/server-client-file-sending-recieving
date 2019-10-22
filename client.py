@@ -1,5 +1,6 @@
 #!/use/bin/python3
-
+## Khalid Abdulmejid, Muhammed ITIR
+## 1611012095, 1611012096
 import socket
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

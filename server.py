@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-## Khalid Abdulmejid, Muhammed ITIR
-## 1611012095, 1611012096
+
 import socket
 
 def fileToSend():
